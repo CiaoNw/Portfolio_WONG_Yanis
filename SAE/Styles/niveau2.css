@@ -1,0 +1,31 @@
+html{
+   background-image:url("../ressources/niveau2/Japan_loop.gif");
+   background-size: cover;
+}
+header{
+   color: aliceblue;
+}
+h1{
+   font-family: cursive ;
+}
+
+table{
+   background-color: rgba(240, 248, 255, 0.832);
+}
+caption{
+   color: aliceblue;
+}
+table{
+   border: 3px solid rgb(84, 29, 156);
+   margin: 5%;
+   padding: 1%;
+   text-align: center;
+}
+
+td{
+   border: 2px solid rgb(84, 29, 156);
+}
+.image{
+   width: 200px;
+   height: 200px;
+}

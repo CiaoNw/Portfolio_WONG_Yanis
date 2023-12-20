@@ -1,0 +1,58 @@
+html{
+    background-image: url("../Ressources/pagemenu/Header.jpg");
+    background-size: auto;
+
+}
+a{
+    color: white;
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+a:hover {
+    color: rgb(80, 79, 79);
+}
+nav {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    top: 0px;
+    text-align: center;
+    height: 2%;
+    opacity: 0.9;
+    background-color: rgb(14, 14, 14, 0.932);
+    font-family: 'font2';
+    font-size: 175%;
+    color: rgba(14, 14, 14, 0.932);
+
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    display: inline-block;
+    font-size: 50%;
+    padding-right:  8%;
+    padding-left: 8%;  
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'font2';
+    src: url("../Font/font2.ttf");
+   }
+body{
+    font-family: 'font2';
+    font-size: 190%;
+    color: rgb(247, 244, 244);
+}
+
+#p{
+    text-align: center;
+}
+html{
+    background-color: rgb(49, 49, 49)
+}

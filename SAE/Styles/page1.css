@@ -1,0 +1,158 @@
+header{
+    font-family: 'BallparkWeiner', serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: rgb(0, 0, 0);    
+
+}
+html{
+    background-color: black;
+}
+#gif{
+    height: 60%;
+    width: 60%;
+}
+.prop{
+    height: 100%;
+    width: 100%;
+}
+#head{
+    text-align:center;
+
+}
+#nom{
+    text-align: center;
+}
+#menu{
+    width: 6%;
+    height: 6%;
+    display: block;
+    float: right;
+    position:sticky;
+    top: 0;
+}
+table{
+    text-align: center;
+}
+html{
+
+    color: rgb(0, 0, 0);
+}
+
+#id0{
+    text-align: center;
+    border-radius: 20%;
+}
+
+nav {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    top: 0px;
+    text-align: center;
+    height: 2%;
+    opacity: 0.9;
+    background-color: rgb(255, 255, 255);
+    font-family: 'font2';
+    font-size: 70%;
+    color: rgb(0, 0, 0);
+
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    display: inline-block;
+    padding-right:  8%;
+    padding-left: 8%;  
+}
+    
+#background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.loli{
+    height:50%;
+    width: 50%;
+}
+#lol{
+    height: 80%;
+    width: 80%;
+    border-radius: 15%;
+}
+@font-face {
+    font-family: 'font2';
+    src: url("../Font/font2.ttf");
+   }
+body{
+    font-family: 'font2';
+    font-size: 190%;
+    color: rgb(247, 244, 244);
+}
+.po{
+    background-color: rgb(60, 60, 60) ;
+}
+
+#pt{
+    text-align: center;
+}
+#produit{
+    height: 110%;
+    width: 110%;
+    border-radius: 3%;
+}
+#prout{
+    padding-left: 15%;
+    padding-right: 15%; 
+}
+#prouti{
+    color: rgb(255, 255, 255);
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+#prouti:hover {
+    color: rgb(124, 124, 124);
+}
+
+a{
+    color: rgb(55, 55, 55);
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+a:hover {
+    color: rgb(0, 0, 0);
+}
+section{
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+#logo{
+    width: 75px;
+    height: 55px;
+
+}
+#background{
+    background-color: black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 3%;
+    padding-left: 3%;
+    opacity: 87%;
+    text-align: center;
+}
+#logoY{
+    height: 40px;
+    width: 75px;
+}

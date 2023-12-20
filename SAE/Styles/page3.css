@@ -1,0 +1,206 @@
+header{
+    font-family: 'BallparkWeiner', serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: rgb(0, 0, 0);    
+
+}
+#head{
+    text-align:center;
+}
+#gif{
+    height: 60%;
+    width: 60%;
+}
+#nom{
+    text-align: center;
+}
+#menu{
+    width: 6%;
+    height: 6%;
+    display: block;
+    float: right;
+    position:sticky;
+    top: 0;
+}
+table{
+    text-align: center;
+}
+html{
+    background-color: black;
+}
+
+#id0{
+    text-align: center;
+    border-radius: 20%;
+}
+
+#bio{
+    display: block;
+    float: left;
+}
+#disco{
+    float: right;
+    display: block;
+}
+  
+#background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.loli{
+    height:50%;
+    width: 50%;
+}
+#lol{
+    height: 80%;
+    width: 80%;
+    border-radius: 15%;
+}
+@font-face {
+    font-family: 'font2';
+    src: url("../Font/font2.ttf");
+   }
+body{
+    font-family: 'font2';
+    font-size: 190%;
+    color: rgb(247, 244, 244);
+}
+
+#pt{
+    text-align: center;
+}
+#produit{
+    height: 80%;
+    width: 80%;
+    border-radius: 3%;
+}
+#prout{
+    margin-left: 30%; 
+}
+#prouti{
+    color: rgb(255, 255, 255);
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+#prouti:hover {
+    color: rgb(124, 124, 124);
+}
+.Lyrics{
+    color: white;
+}
+
+.effet{
+    color: rgb(55, 55, 55);
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+.effet:hover {
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+section{
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+table{
+    background-color: rgb(27, 27, 27);
+    padding-right: 3%;
+    padding-left: 3%;
+}
+.espacement{
+    padding-top: 3%;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+    border-radius: 2%;
+}
+.esp{
+    padding-top: 1%;
+}
+#background{
+    background-color:rgb(27, 27, 27) ;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+
+.espacement{
+    padding-top: 3%;
+}
+#center{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+    padding-right: 10%;
+    padding-left: 10%;
+}
+#vdo{
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+#logo{
+    width: 75px;
+    height: 55px;
+
+}
+#background1{
+    background-color: black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 3%;
+    padding-left: 3%;
+    opacity: 95%;
+    text-align: center;
+}
+#logoY{
+    height: 40px;
+    width: 75px;
+}
+.pavets{
+    font-size: 70%;
+}
+nav {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    top: 0px;
+    text-align: center;
+    height: 2%;
+    opacity: 0.9;
+    background-color: rgb(255, 255, 255);
+    font-family: 'font2';
+    font-size: 60%;
+    color: rgba(0, 0, 0, 0.932);
+
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    display: inline-block;
+    padding-right:  8%;
+    padding-left: 8%;  
+}
